@@ -71,6 +71,8 @@
 
 * [zippers](https://github.com/ferd/zippers) - Erlang Zipper
   Implementation
+* [Parsing XML in
+  Clojure](https://clojure-doc.org/articles/cookbooks/parsing_xml_with_zippers/) - Gareth Jones (+ Sean Corfield)
 
 ## 2013
 
