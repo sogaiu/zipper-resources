@@ -136,3 +136,7 @@
 * [A brief look at the internal structure of Clojure
   Zippers](https://blog.jakubholy.net/2019/briefly-internal-structure-of-clojure-zippers/)
 
+## 2021
+
+* [Clojure Zippers](https://grishaev.me/en/clojure-zippers/) - post by Ivan Grishaev
+
