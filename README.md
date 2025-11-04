@@ -59,7 +59,7 @@
   Luke Vanderhart - Conj 2010
 * [Tree Editing with
   Zippers](https://www.youtube.com/watch?v=PS61gtzgnpE) - Alex
-  Miller - Conj 2010
+  Miller - Conj 2010 - (No Slides...but see link above to post by Alex Miller)
 
 ## 2011
 
