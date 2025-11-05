@@ -120,6 +120,7 @@
   * [Zippers - Episode 5](https://www.youtube.com/watch?v=_fTcOfSHouQ)
   * [Zippers - Episode 6](https://www.youtube.com/watch?v=zyljqeZzmdE)
   * [Zippers - Episode 7](https://www.youtube.com/watch?v=j3TtkPj0W-8)
+* [Zippers - Functional Tree Editing (clojure.zip)](https://clojure.org/reference/other_libraries#_zippers_functional_tree_editing_clojure_zip) - clojure.org resource (date based on archive.org research)
 
 ## 2018
 
